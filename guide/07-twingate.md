@@ -2,7 +2,7 @@
 
 ▶ Video: 14:59 · [← Back up your phone](06-phone-backup.md) · [Next: Add a NAS →](08-add-a-nas.md)
 
-> Twingate sponsored this video. In the video the link is read as twingate.com/networkchuck; use [ntck.co/twingate-networkchuck](https://ntck.co/twingate-networkchuck).
+> Twingate sponsored this video. In the video the link is read as twingate.com/networkchuck; use [ntck.co/twingate_immich](https://ntck.co/twingate_immich).
 
 Away from home, your phone can't reach a server that only lives on your home network. You could open a port on your router and put Immich on the internet, but then anyone can knock on it. Twingate does it the other way around: a small **Connector** inside your network dials out to Twingate, and only devices signed in to *your* Twingate account, running the Twingate app, can reach the one thing you shared. No port forwarding, nothing exposed.
 
@@ -21,7 +21,7 @@ It's not a VPN to your whole network. You share one **Resource** (the Immich ser
 
 ## Set it up
 
-1. Sign up at [ntck.co/twingate-networkchuck](https://ntck.co/twingate-networkchuck). The free **Starter** plan covers up to 5 users, plenty for a family ([pricing](https://www.twingate.com/pricing)).
+1. Sign up at [ntck.co/twingate_immich](https://ntck.co/twingate_immich). The free **Starter** plan covers up to 5 users, plenty for a family ([pricing](https://www.twingate.com/pricing)).
 2. Name your network. You end up in the **Admin Console**.
 3. **Remote Networks → Add Remote Network.** Location: **On Premise**. Name it `home`.
 4. In that network, **Deploy Connector** → choose **Docker**. Twingate generates a `docker run` command with your network's tokens in it. Run it on the Immich server (Docker is already there):

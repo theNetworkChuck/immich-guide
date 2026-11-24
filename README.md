@@ -80,7 +80,7 @@ Also: [Family accounts and the API](guide/extras-family-and-api.md) (20:18 and 2
 ## Links
 
 - Immich: [immich.app](https://immich.app) · [docs](https://docs.immich.app) · [GitHub](https://github.com/immich-app/immich)
-- Twingate, the sponsor of the video: [ntck.co/twingate-networkchuck](https://ntck.co/twingate-networkchuck)
+- Twingate, the sponsor of the video: [ntck.co/twingate_immich](https://ntck.co/twingate_immich)
 - Ubuntu Server: [ubuntu.com/download/server](https://ubuntu.com/download/server)
 - More from NetworkChuck: [YouTube](https://www.youtube.com/@NetworkChuck) · [NetworkChuck Academy](https://ntck.co/NCAcademy) · [coffee](https://ntck.co/coffee)
 
